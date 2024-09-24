@@ -16,7 +16,7 @@ function Info() {
                     <p className='sm:hidden pt-5 '>Aman Agnihotri is a skilled web developer with a solid understanding of both front-end and back-end technologies. He is proficient in React, Express.js, Redux, MongoDB, and Tailwind CSS, focusing on building dynamic, user-friendly applications. Known for his problem-solving skills and attention to detail, Aman continuously learns new tools and techniques to deliver high-quality results, making him a versatile and adaptable developer.</p>
                 </div>
                 <div className='sm:max-w-[30%] '>
-                    <img className='bg-transparent w-[80%] mx-auto h-[80%]' src="../../public/images/one.png" alt="" />
+                    <img className='bg-transparent w-[80%] mx-auto h-[80%]' src="/images/one.png" alt="" />
 
                 </div>
             </div>

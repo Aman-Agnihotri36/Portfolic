@@ -10,7 +10,7 @@ function ProjectOne() {
             </div>
 
             <div className='sm:w-[30%]'>
-                <img className='w-[90%] mx-auto' src="../../public/images/job.png" alt="" />
+                <img className='w-[90%] mx-auto' src="/images/Job.png" alt="" />
             </div>
 
         </div>
